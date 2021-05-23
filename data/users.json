@@ -1,0 +1,23 @@
+[
+    {   
+        "_id": 1,
+        "username": "Wanda",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Elizabeth_Olsen_as_Wanda_Maximoff.jpg/220px-Elizabeth_Olsen_as_Wanda_Maximoff.jpg",
+        "password": "123456",
+        "status": "hey there, I am using CF!"
+    },
+    {
+        "_id": 2,
+        "username": "Vision",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-marvel-the-avengers-paul-bettany.jpg",
+        "password": "123456",
+        "status": "Cool!!"
+    },
+    {
+        "_id": 3,
+        "username": "groot",
+        "image": "",
+        "password": "123456",
+        "status": "I'm Groot!!"
+    }
+]

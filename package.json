@@ -1,0 +1,35 @@
+{
+  "name": "chat-api",
+  "version": "1.0.0",
+  "description": "chat api",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagarajsaravanan/react-chat.git"
+  },
+  "keywords": [
+    "chat",
+    "api",
+    "socket",
+    "socket.io",
+    "fast",
+    "node",
+    "js",
+    "express",
+    "custom"
+  ],
+  "author": "ngrj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagarajsaravanan/react-chat/issues"
+  },
+  "homepage": "https://github.com/nagarajsaravanan/react-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.0.1"
+  }
+}
